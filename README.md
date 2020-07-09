@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Ridgeline, building the enterprise cloud gor Investment Managers. [We're recruiting](https://www.ridgelineapps.com/careers/) in New York and Nevada!
-- 🌱 I’m currently learning TypeScript, React and other cool new web tech
+- 🔭 I’m currently working at Ridgeline building the enterprise cloud for Investment Managers. [We're recruiting](https://www.ridgelineapps.com/careers/)!
+- 🌱 I’m learning TypeScript, React and other cool new web technologies.
 - 😄 Pronouns: Him/He
 
 <!--
