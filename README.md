@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @ridgelineapps building the enterprise cloud for Investment Managers. [We're recruiting](https://www.ridgelineapps.com/careers/)!
+- 🔭 I’m currently working at [Ridgeline](https://www.ridgelineapps.com/) building the enterprise cloud for Investment Managers. [We're recruiting](https://www.ridgelineapps.com/careers/)!
 - 🌱 I’m learning TypeScript, React and other cool new web technologies.
 - 😄 Pronouns: Him/He
 
